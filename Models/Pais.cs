@@ -7,5 +7,4 @@ string Nombre {get; set;}
 string Bandera {get; set;}
 
 DateTime FechaFundacion{get; set;}
-
 }
