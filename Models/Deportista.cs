@@ -1,16 +1,16 @@
 public class Deportista{
 
-int idDeportista {get; set;}
+public int idDeportista {get; set;}
 
-string Apellido {get; set;}
+public string Apellido {get; set;}
 
-string Nombre {get; set;}
+public string Nombre {get; set;}
 
-DateTime FechaNacimiento {get; set;}
+public DateTime FechaNacimiento {get; set;}
 
-string Foto {get; set;}
+public string Foto {get; set;}
 
-int IdPais {get; set;}
+public int IdPais {get; set;}
 
-int IdDeporte {get; set;}
+public int IdDeporte {get; set;}
 }
