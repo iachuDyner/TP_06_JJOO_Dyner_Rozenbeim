@@ -46,13 +46,22 @@ using(SqlConnection db = new SqlConnection(_connectionString))
  static void ListarPaises (){
     List<string> ListadoPaises = new List<string>();
     using(SqlConnection db = new SqlConnection(_connectionString)){
-        string sql "SELECT * FROM Paises";
+        string sql = "SELECT * FROM Paises";
         ListadoPaises = db.Query<Pais>(sql).ToList();
-        
     }
 }
  static void ListarDeportistasDeporte (int idDeporte){
+    List<string> ListadoDeportistasDeporte = new List<string>();
+    using(SqlConnection db = new SqlConnection(_connectionString)){
+        string sql = "SELECT * FROM Deportista WHERE idDeporte = @IdDeporte";
+        ListadoDeportistasDeporte = db.Query<Pais>(sql).ToList();
+    }
 }
  static void ListarDeportistasPais (int idPais){
+    List<string> ListadoDeportistasPais = new List<string>();
+    using(SqlConnection db = new SqlConnection(_connectionString)){
+        string sql = "SELECT * FROM Deportista WHERE IdPais = @IdPais";
+        ListadoDeportistasPais = db.Query<Pais>(sql).ToList();
+    }
 }
 }
