@@ -1,11 +1,11 @@
 public class Pais{
 
-int IdPais {get; set;}
+public int IdPais {get; set;}
 
-string Nombre {get; set;}
+public string Nombre {get; set;}
 
-string Bandera {get; set;}
+public string Bandera {get; set;}
 
-DateTime FechaFundacion{get; set;}
+public DateTime FechaFundacion{get; set;}
 
 }

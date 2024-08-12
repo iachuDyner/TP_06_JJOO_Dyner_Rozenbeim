@@ -1,0 +1,12 @@
+
+<header>
+    <h1>DEPORTES</h1>
+    <p>Bienvenidos al sitio web de los JJOO</p>
+    <a href="Url.Action('Index')"><img src="LogoOlimpico.jpg"></a>
+</header> 
+
+@foreach (Pais pai in @ViewBag.ListadoPaises){
+
+<h4> @pai.Nombre</h4>
+
+}
