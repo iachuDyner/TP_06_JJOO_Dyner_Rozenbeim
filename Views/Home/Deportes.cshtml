@@ -1,11 +1,3 @@
-<header>
-    <h1>DEPORTES</h1>
-    <p>Bienvenidos al sitio web de los JJOO</p>
-    <a href="Url.Action('Index')"><img src="LogoOlimpico.jpg"></a>
-</header> 
-
+<h1>Listado de Deportes</h1>
 @foreach (Deporte dep in @ViewBag.ListadoDeportes){
-
-<h4>@dep.Nombre</h4>
-
-}
+<button><a href='@Url.Action("VerDetalleDeporte", new {@IdDeporte = dep.IdDeporte})'> @dep.Nombre</a></button>}

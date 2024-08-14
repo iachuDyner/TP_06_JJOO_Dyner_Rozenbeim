@@ -4,7 +4,7 @@ using Dapper;
 namespace TP_JJOO_Dyner_Rozenbeim;
 public static class BD
 {
-    private static string  _connectionString = @"Server=localhost; DataBase=NombreBase;Trusted_Connection=True;";
+    private static string  _connectionString = @"Server=localhost; DataBase=JJOO-BD;Trusted_Connection=True;";
 
     public static void AgregarDeportista(Deportista dep)
     {
