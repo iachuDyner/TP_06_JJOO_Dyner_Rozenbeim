@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\Img\\Banner.jfif"
     },
     {
+      "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\Foto_paris.webp",
+      "PackagePath": "staticwebassets\\Img\\Foto_paris.webp"
+    },
+    {
       "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\LogoOlimpico.jpg",
       "PackagePath": "staticwebassets\\Img\\LogoOlimpico.jpg"
     },
     {
       "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\Thumbs.db",
       "PackagePath": "staticwebassets\\Img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\creditos.jpg",
+      "PackagePath": "staticwebassets\\Img\\creditos.jpg"
     },
     {
       "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Thumbs.db",

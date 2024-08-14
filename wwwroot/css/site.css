@@ -22,6 +22,74 @@ footer {
   border-top: 1px solid #e9ecef;
 }
 
-.Index{
-  background-image: url("~/Img/Banner.jfifs");
+.Titulo-JJOO{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    background: linear-gradient(45deg, #ffeb3b, #f44336);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    border: 5px solid #fff;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.titulo-jjoo:hover {
+transform: scale(1.1);
+box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.bajo-img{
+font-family: Arial, sans-serif ;
+text-align: center;
+font-weight: bold;
+margin-top: 10px;
+border-top: solid black 1px;
+}
+
+.clase-credito{
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.credits {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.credits h1 {
+  color: #444;
+}
+
+.credits img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.team-member {
+  margin-bottom: 20px;
+}
+
+.team-member h2 {
+  margin: 0;
+  color: #333;
+}
+
+.team-member h4 {
+  margin: 5px 0;
+  color: #666;
 }

@@ -35,7 +35,6 @@ public class HomeController : Controller
         return View();
     }
     public IActionResult VerDetallePais(int idPais){
-
         ViewBag.DatosPais = BD.VerInfoPais(idPais);
         ViewBag.ListadoDeportistasPais = BD.ListarDeportistasPais(idPais);
         return View();

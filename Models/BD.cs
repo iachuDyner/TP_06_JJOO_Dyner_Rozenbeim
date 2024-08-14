@@ -40,8 +40,8 @@ public static class BD
         Pais MiPais = null;
         using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            string sql = "SELECT * FROM Paises WHERE IdPais = @IdPais";
-            MiPais = db.QueryFirstOrDefault<Pais>(sql, new { pIdPais = idPais });
+            string sql = "SELECT * FROM Paises WHERE IdPais = @idPais";
+            MiPais = db.QueryFirstOrDefault<Pais>(sql, new { idPais = idPais });
         }
         return MiPais;
     }
@@ -86,11 +86,11 @@ public static class BD
     }
     public static List<Deportista> ListarDeportistasPais(int idPais)
     {
-        List<Deportista> ListadoDeportistasPais = new List<Deportista>();
+        List<Deportista> ListadoDeportistasPais;
         using (SqlConnection db = new SqlConnection(_connectionString))
         {
             string sql = "SELECT * FROM Deportista WHERE IdPais = @IdPais";
-            ListadoDeportistasPais = db.Query<Deportista>(sql).ToList();
+            ListadoDeportistasPais = db.Query<Deportista>(sql, new {IdPais = idPais}).ToList();
         }
         return ListadoDeportistasPais;
     }
