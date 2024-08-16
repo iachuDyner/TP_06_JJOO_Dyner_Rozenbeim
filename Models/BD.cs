@@ -79,8 +79,8 @@ public static class BD
         List<Deportista> ListadoDeportistasDeporte = new List<Deportista>();
         using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            string sql = "SELECT * FROM Deportista WHERE idDeporte = @IdDeporte";
-            ListadoDeportistasDeporte = db.Query<Deportista>(sql).ToList();
+            string sql = "SELECT * FROM Deportistas WHERE idDeporte = @IdDeporte";
+            ListadoDeportistasDeporte = db.Query<Deportista>(sql, new {IdDeporte = idDeporte}).ToList();
         }
         return ListadoDeportistasDeporte;
     }
@@ -89,7 +89,7 @@ public static class BD
         List<Deportista> ListadoDeportistasPais;
         using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            string sql = "SELECT * FROM Deportista WHERE IdPais = @IdPais";
+            string sql = "SELECT * FROM Deportistas WHERE IdPais = @IdPais";
             ListadoDeportistasPais = db.Query<Deportista>(sql, new {IdPais = idPais}).ToList();
         }
         return ListadoDeportistasPais;

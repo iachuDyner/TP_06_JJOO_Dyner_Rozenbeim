@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "948sT5l5CdPhIpM9qvtJPNFLcV3Br+KX2D0sDHu0cKs=",
+  "Hash": "9j2yX8KUxTc9RL2/P3HfMhKLrIuRWin+ufYX80fgq+U=",
   "Source": "TP-JJOO-Dyner-Rozenbeim",
   "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Img\\Foto_paris.webp"
+    },
+    {
+      "Identity": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\lebron.jpg",
+      "SourceId": "TP-JJOO-Dyner-Rozenbeim",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\",
+      "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
+      "RelativePath": "Img/lebron.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\lebron.jpg"
     },
     {
       "Identity": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\LogoOlimpico.jpg",

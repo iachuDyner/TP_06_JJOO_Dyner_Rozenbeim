@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\Img\\creditos.jpg"
     },
     {
+      "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\lebron.jpg",
+      "PackagePath": "staticwebassets\\Img\\lebron.jpg"
+    },
+    {
       "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Thumbs.db",
       "PackagePath": "staticwebassets\\Thumbs.db"
     },
