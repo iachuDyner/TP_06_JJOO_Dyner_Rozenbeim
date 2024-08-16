@@ -1,3 +1,11 @@
 <h1>Listado de Deportes</h1>
 @foreach (Deporte dep in @ViewBag.ListadoDeportes){
-<button><a href='@Url.Action("VerDetalleDeporte", new {@IdDeporte = dep.IdDeporte})'> @dep.Nombre</a></button>}
+<div class="card" style="width: 18rem;">
+  <img src="@dep.Foto" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">@dep.Nombre</h5>
+    <a href="VerDetalleDeporte" class="btn btn-primary">Ver Deporte</a>
+  </div>
+</div>
+
+}

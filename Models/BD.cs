@@ -4,7 +4,7 @@ using Dapper;
 namespace TP_JJOO_Dyner_Rozenbeim;
 public static class BD
 {
-    private static string  _connectionString = @"Server=localhost; DataBase=JJOO-BD;Trusted_Connection=True;";
+    private static string  _connectionString = @"Server=localhost; DataBase=JJOO;Trusted_Connection=True;";
 
     public static void AgregarDeportista(Deportista dep)
     {
@@ -31,7 +31,7 @@ public static class BD
         using (SqlConnection db = new SqlConnection(_connectionString))
         {
             string sql = "SELECT * FROM Deportes WHERE IdDeporte = @IdDeporte";
-            MiDeporte = db.QueryFirstOrDefault<Deporte>(sql, new { pIdDeporte = idDeporte });
+            MiDeporte = db.QueryFirstOrDefault<Deporte>(sql, new { IdDeporte = idDeporte });
         }
         return MiDeporte;
     }
