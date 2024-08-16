@@ -1,4 +1,13 @@
 @{
     ViewData["Title"] = "Ver Detalle Deporte";
 }
-<header>
+@foreach(Deportista deportista in ViewBag.ListadoDeportistasDeporte){
+<div class="card" style="width: 18rem;">
+  <img src="@deportista.Foto" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">@deportista.Nombre @deportista.Apellido</h5>
+  </div>
+</div>
+
+
+}

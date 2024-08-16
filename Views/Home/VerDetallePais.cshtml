@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Ver Detalle Pais";
+}
+
+@foreach(Deportista deportista in ViewBag.ListadoDeportistasPais){
+<div class="card" style="width: 18rem;">
+  <img src="@deportista.Foto" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">@deportista.Nombre</h5>
+  </div>
+</div>
+
+
+}

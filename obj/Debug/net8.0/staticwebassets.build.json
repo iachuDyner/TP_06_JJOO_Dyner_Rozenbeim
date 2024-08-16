@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9j2yX8KUxTc9RL2/P3HfMhKLrIuRWin+ufYX80fgq+U=",
+  "Hash": "tRjNxPB65jFni6AmzSm7Tmi/CZuFYwxnSSl8vA4SmK8=",
   "Source": "TP-JJOO-Dyner-Rozenbeim",
   "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Img\\LogoOlimpico.jpg"
+    },
+    {
+      "Identity": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\medallero.png",
+      "SourceId": "TP-JJOO-Dyner-Rozenbeim",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\",
+      "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
+      "RelativePath": "Img/medallero.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\medallero.png"
     },
     {
       "Identity": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\Thumbs.db",
