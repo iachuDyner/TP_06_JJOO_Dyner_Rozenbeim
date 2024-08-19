@@ -53,8 +53,10 @@ public class HomeController : Controller
 
     [HttpPost]
     public  IActionResult GuardarDeportista(Deportista dep){
+        Console.WriteLine(dep.IdDeporte);
+        Console.WriteLine(dep.IdPais);
         BD.AgregarDeportista(dep);
-        return View();
+        return RedirectToAction("Index");
     }
     public IActionResult EliminarDeportista(int idCandidato)
     {
@@ -65,6 +67,4 @@ public class HomeController : Controller
     {
         return View();
     }
-
-
 }

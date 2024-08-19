@@ -1,11 +1,18 @@
 @{
     ViewData["Title"] = "Ver Detalle Deporte";
 }
+<div class ="imgdeporte">
+<img src="@ViewBag.DatosDeporte.Foto" alt="...">
+<h1>@ViewBag.DatosDeporte.Nombre</h1>
+</div>
+
 @foreach(Deportista deportista in ViewBag.ListadoDeportistasDeporte){
 <div class="card" style="width: 18rem;">
   <img src="@deportista.Foto" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">@deportista.Nombre @deportista.Apellido</h5>
+    <a href='@Url.Action("VerDetallePais", new { idPais = @deportista.IdPais })' class="btn btn-primary">Ver País</a>
+    <a href='@Url.Action("VerDetalleDeportista", new { idDeportista = @deportista.idDeportista })' class="btn btn-primary">Ver deportista</a>
   </div>
 </div>
 

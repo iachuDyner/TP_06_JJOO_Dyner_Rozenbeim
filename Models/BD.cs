@@ -8,7 +8,7 @@ public static class BD
 
     public static void AgregarDeportista(Deportista dep)
     {
-        string sql = "Insert into Deportistas (Apellido, Nombre, FechaNacimiento, Foto, IdPais, IdDeporte) Values (@Apellido, @Nombre, @FechaNacimiento, @Foto, @IdPais, @IdDeporte)";
+        string sql = "Insert into Deportistas (Apellido, Nombre, FechaNacimiento, Foto, IdPais, IdDeporte) Values (@pApellido, @pNombre, @pFechaNacimiento, @pFoto, @pIdPais, @pIdDeporte)";
         using (SqlConnection db = new SqlConnection(_connectionString))
         {
             db.Execute(sql, new { pApellido = dep.Apellido, pNombre = dep.Nombre, pFechaNacimiento = dep.FechaNacimiento, pFoto = dep.Foto, pIdPais = dep.IdPais, pIdDeporte = dep.IdDeporte });
@@ -50,7 +50,7 @@ public static class BD
         Deportista MiDeportista = null;
         using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            string sql = "SELECT * FROM Deportistas  WHERE IdDeportista = @IdDeportista";
+            string sql = "SELECT * FROM Deportistas  WHERE IdDeportista = @pIdDeportista";
             MiDeportista = db.QueryFirstOrDefault<Deportista>(sql, new { pIdDeportista = idDeportista });
         }
         return MiDeportista;

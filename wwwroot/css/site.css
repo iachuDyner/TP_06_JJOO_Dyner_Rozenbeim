@@ -63,24 +63,30 @@ border-top: solid black 1px;
 
 }
 .titulo-img{
-    font-style: inherit;
-    font-variant: inherit;
-    font-stretch: inherit;
-    font-optical-sizing: inherit;
-    font-size-adjust: inherit;
-    font-kerning: inherit;
-    font-feature-settings: inherit;
-    font-variation-settings: inherit;
-    margin: 10px;
-    padding: 10px;
-    vertical-align: baseline;
-    color: rgb(0, 0, 0);
-    font-size: 3.6rem;
-    font-weight: 900;
-    letter-spacing: 0.018rem;
-    line-height: 4rem;
-    text-transform: uppercase;
-    text-align: center;
+    
+  margin: 10px;
+  padding: 10px;
+  vertical-align: baseline;
+  color: rgb(0, 0, 0);
+  font-size: 3.6rem;
+  font-weight: 900;
+  letter-spacing: 0.018rem;
+  line-height: 4rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+.titulo2{
+  margin: 10px;
+  padding: 10px;
+  vertical-align: baseline;
+  color: rgb(0, 0, 0);
+  font-size: 3.6rem;
+  font-weight: 700;
+  letter-spacing: 0.018rem;
+  line-height: 4rem;
+  text-transform: uppercase;
+  border-bottom: solid black 1px;
+
 }
 
 
@@ -124,4 +130,32 @@ border-top: solid black 1px;
 .team-member h4 {
   margin: 5px 0;
   color: #666;
+}
+.imgP, .imgD{
+  float: left;
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;;
+}
+
+.tituloPais{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ border-bottom: 2px solid black;
+ 
+}
+
+footer{
+  clear: both;
+}
+.im{
+
+  width: 100%;
+  height: 100%;
+}
+.imgPais{
+  width: 40%;
+  height: 40%;
+}
+.imgdeporte{
+  width: 20%;
+  height: 20%;
 }

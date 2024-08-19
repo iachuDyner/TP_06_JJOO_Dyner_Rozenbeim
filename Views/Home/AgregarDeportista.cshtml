@@ -1,32 +1,28 @@
 @{
     ViewData["Title"] = "Agregar deportista";
-    int sumatoriaPais = 0, sumatoriaDeportes = 0;
 }
 <h1>AGREGAR DEPORTISTA</h1>
-<form action='@Url.Action("GuardarDeportista")'>
-  <p>INGRESE LA FOTO DEL DEPORTISTA</p>
-  <input type="text" id="fname" name="Foto"><br><br>
+<form action='@Url.Action("GuardarDeportista")' method = "post">
   <p>INGRESE EL APELLIDO DEL DEPORTISTA</p>
   <input type="text" id="lname" name="Apellido"><br><br>
   <p>INGRESE EL NOMBRE DEL DEPORTISTA</p>
   <input type="text" id="lname" name="Nombre"><br><br>
   <p>INGRESE LA FECHA DE NACIMIENTO DEL DEPORTISTA</p>
   <input type="date" id="lname" name="FechaNacimiento"><br><br>
-  <p>INGRESE EL PAIS DEL DEPORTISTA</p>
-  <p>INGRESE EL DEPORTE DEL DEPORTISTA</p>
-  <select>
-    @foreach(Deporte dep in ViewBag.ListadoDeportes){
-      sumatoriaDeportes++;
-      <option selected>Ingrese su deporte</option>
-      <option value="@sumatoriaDeportes">@dep.Nombre</option>
-    }
-  </select>
+  <p>INGRESE LA FOTO DEL DEPORTISTA</p>
+  <input type="text" id="fname" name="Foto"><br><br> 
+  
 
-  <select>
-    @foreach(Pais pai in ViewBag.ListadoPaises){
-      sumatoriaPais++;
+  <select name="IdPais">
       <option selected>Ingrese su pais</option>
-      <option value="@sumatoriaPais">@pai.Nombre</option>
+    @foreach(Pais pai in ViewBag.ListadoPaises){
+      <option value="@pai.IdPais" >@pai.Nombre </option>
+    }
+  </select><br>
+  <select name="IdDeporte">
+      <option selected>Ingrese su deporte</option>
+    @foreach(Deporte dep in ViewBag.ListadoDeportes){
+      <option value="@dep.IdDeporte" >@dep.Nombre</option>
     }
   </select>
   <input type="submit" value="Submit">
