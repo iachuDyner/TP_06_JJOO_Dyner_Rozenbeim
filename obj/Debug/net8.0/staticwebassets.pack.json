@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Img\\Banner.jfif"
     },
     {
+      "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\FotoSurf.jpg",
+      "PackagePath": "staticwebassets\\Img\\FotoSurf.jpg"
+    },
+    {
       "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\Foto_paris.webp",
       "PackagePath": "staticwebassets\\Img\\Foto_paris.webp"
     },
@@ -21,8 +25,16 @@
       "PackagePath": "staticwebassets\\Img\\creditos.jpg"
     },
     {
+      "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\golFermin.webp",
+      "PackagePath": "staticwebassets\\Img\\golFermin.webp"
+    },
+    {
       "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\lebron.jpg",
       "PackagePath": "staticwebassets\\Img\\lebron.jpg"
+    },
+    {
+      "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\maligno.jpg",
+      "PackagePath": "staticwebassets\\Img\\maligno.jpg"
     },
     {
       "Id": "Z:\\programación\\TP-JJOO-Dyner-Rozenbeim\\wwwroot\\Img\\medallero.png",
