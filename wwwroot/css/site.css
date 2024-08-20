@@ -63,16 +63,16 @@ border-top: solid black 1px;
 
 }
 .titulo-img {
-  font-size: 40px; 
-  font-weight: bold; 
-  background: linear-gradient(90deg, #0055A4, #FFFFFF, #EF4135); 
-  -webkit-background-clip: text; 
-  -webkit-text-fill-color: transparent; 
-  background-clip: text;
-  text-align: center;
-  margin: 20px 0; 
-  text-transform: uppercase;
-  letter-spacing: 2px; 
+  
+ font-size: 40px; 
+font-weight: bold; 
+color: #0055A4; 
+text-align: center;
+margin: 20px 0; 
+text-transform: uppercase;
+letter-spacing: 2px;
+background: linear-gradient(90deg, #0055A4, #FFFFFF, #EF4135); 
+-webkit-background-clip: border-box; 
 }
 .titulo2{
   margin: 10px;
@@ -197,8 +197,8 @@ form {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 300px;
-  margin-top: 50px; /* Ajuste de margen superior para separación */
-  margin-bottom: 50px; /* Ajuste de margen inferior */
+  margin-top: 50px; 
+  margin-bottom: 50px; 
 }
 
 form p {
