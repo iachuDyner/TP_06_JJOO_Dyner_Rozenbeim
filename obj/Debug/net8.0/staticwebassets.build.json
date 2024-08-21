@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jMNP/8xXHmbKffIMFrfarnIKrCxJwLtL/hDfrX5HIzk=",
+  "Hash": "N1Nb+b5Rmero9E2cDVJWwD1G/pzACUoJhw3GpHYF734=",
   "Source": "TP-JJOO-Dyner-Rozenbeim",
   "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP-JJOO-Dyner-Rozenbeim\\wwwroot",
       "Source": "TP-JJOO-Dyner-Rozenbeim",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\css\\site.css",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\favicon.ico",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\Banner.jfif",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\Banner.jfif",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/Banner.jfif",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\Banner.jfif"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\creditos.jpg",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\creditos.jpg",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/creditos.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\creditos.jpg"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\Foto_paris.webp",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\Foto_paris.webp",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/Foto_paris.webp",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\Foto_paris.webp"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\FotoSurf.jpg",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\FotoSurf.jpg",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/FotoSurf.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\FotoSurf.jpg"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\golFermin.webp",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\golFermin.webp",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/golFermin.webp",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\golFermin.webp"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\lebron.jpg",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\lebron.jpg",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/lebron.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\lebron.jpg"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\LogoOlimpico.jpg",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\LogoOlimpico.jpg",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/LogoOlimpico.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\LogoOlimpico.jpg"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\maligno.jpg",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\maligno.jpg",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/maligno.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\maligno.jpg"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\medallero.png",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\medallero.png",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/medallero.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\medallero.png"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\Thumbs.db",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Img\\Thumbs.db",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Img/Thumbs.db",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\js\\site.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Thumbs.db",
+      "Identity": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\Thumbs.db",
       "SourceId": "TP-JJOO-Dyner-Rozenbeim",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Iachu\\Downloads\\JJOO-Dyner-Rozenbeim\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313765\\Downloads\\JJOO\\TP_06_JJOO_Dyner_Rozenbeim\\wwwroot\\",
       "BasePath": "_content/TP-JJOO-Dyner-Rozenbeim",
       "RelativePath": "Thumbs.db",
       "AssetKind": "All",
